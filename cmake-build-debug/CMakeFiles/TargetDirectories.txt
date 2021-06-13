@@ -1,0 +1,3 @@
+C:/Users/amisa/Documents/JeffLeupold/SeattleU/DataStructures2/P4_triage/cmake-build-debug/CMakeFiles/P4_triage.dir
+C:/Users/amisa/Documents/JeffLeupold/SeattleU/DataStructures2/P4_triage/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/amisa/Documents/JeffLeupold/SeattleU/DataStructures2/P4_triage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
